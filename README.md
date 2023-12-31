@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Junior Front-end Developer
 --------------------------
-
+I'm a beginner web developer. My journey into it began with the IT Academy, where I took two courses: the first - website development with HTML, CSS & javascript, the second - web application development with javascript. Afterwards I took training at RSSchool in Jaavascript, then I took training in React.
 * 🌍  I'm based in Gomel
 * ✉️  You can contact me at  <a href="mailto:alexkravchenko1605@gmail.com"> ![Static Badge](https://img.shields.io/badge/gmail-text%20me%20-%20red?style=social&logo=Gmail&logoColor=red) </a>
 
