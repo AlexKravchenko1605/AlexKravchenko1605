@@ -5,7 +5,7 @@ Junior Front-end Developer
 --------------------------
 
 * 🌍  I'm based in Gomel
-* ✉️  You can contact me at ![Static Badge](https://img.shields.io/badge/gmail-text%20me%20-%20red?style=social&logo=Gmail&logoColor=red)
+* ✉️  You can contact me at : <a href="mailto:alexkravchenko1605@gmail.com"></a> ![Static Badge](https://img.shields.io/badge/gmail-text%20me%20-%20red?style=social&logo=Gmail&logoColor=red)
 
 
 ### Skills
