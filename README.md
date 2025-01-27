@@ -3,14 +3,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Front-end Developer
 --------------------------
-I'm a  web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey into it began with the IT Academy, where I took two courses: the first - website development with HTML, CSS & javascript, the second - web application development with javascript. Afterwards I took training at RSSchool in Jaavascript, then I took training in React.
+I'm a  web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey into it began with the IT Academy, where I took two courses: the first - website development with HTML, CSS & JavaScript, the second - web application development with JavaScript. Afterwards I took training at RSSchool in JavaScript, then I took training in React.                
+
+
+
+                    
+
+
 
 
 
 * 🌍  I'm based in Gomel
 * ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-AlexKravchenko-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AlexKravchenko_1605) <a href="mailto:alexkravchenko1605@gmail.com"> ![Static Badge](https://img.shields.io/badge/gmail-text%20me%20-%20red?style=social&logo=Gmail&logoColor=red) </a>
-
-
 
 
 ### Skills
@@ -28,13 +32,12 @@ I'm a  web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>&nbsp;
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>&nbsp;
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>&nbsp;
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>&nbsp;
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>&nbsp;
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>&nbsp;
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>&nbsp;
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>&nbsp;
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-</p>
+</p>                                                                                                                                                        
 
 
 
@@ -52,11 +55,10 @@ I'm a  web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<p >My GitHub Stats</p>
 
-<a href="http://www.github.com/AlexKravchenko1605"><img src="https://github-readme-stats.vercel.app/api?username=AlexKravchenko1605&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="AlexKravchenko1605's GitHub stats" /></a>
-
-<a href="https://github.com/AlexKravchenko1605" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKravchenko1605&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <a href="http://www.github.com/AlexKravchenko1605"><img src="https://github-readme-stats.vercel.app/api?username=AlexKravchenko1605&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="AlexKravchenko1605's GitHub stats" /></a>  
+  <a href="https://github.com/AlexKravchenko1605" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKravchenko1605&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
