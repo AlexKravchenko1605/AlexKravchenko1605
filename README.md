@@ -14,7 +14,7 @@ I'm a  web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 
 
-* ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-AlexKravchenko-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AlexKravchenko_1605) <a href="mailto:alexkravchenko1605@gmail.com"> ![Static Badge](https://img.shields.io/badge/gmail-text%20me%20-%20red?style=social&logo=Gmail&logoColor=red) </a>
+* ✉️  You can contact me at ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/AlexKravchenko_1605) <a href="mailto:alexkravchenko1605@gmail.com"> ![Static Badge](https://img.shields.io/badge/gmail-text%20me%20-%20red?style=social&logo=Gmail&logoColor=red) </a>
 
 
 ### Skills
