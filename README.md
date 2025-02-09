@@ -1,27 +1,43 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexandr Kravchenko
 ===========================================================================================================================================
 
-Front-end Developer
---------------------------
-I'm a  web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey into it began with the IT Academy, where I took two courses: the first - website development with HTML, CSS & JavaScript, the second - web application development with JavaScript. Afterwards I took training at RSSchool in JavaScript, then I took training in React.                
+
+<br/>
+<br/>
+<div align="center" id="badges">
+  <a href="https://www.linkedin.com/in/alex-kravchenko-18a312261">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> 
+  <a href="https://t.me/AlexKravchenko_1605">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
+  </a>
+  <a href="https://t.me/AlexKravchenko_1605">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a> 
+</div>
+<br/>
+<br/>
+
+### :man_technologist: About Me :
+
+I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+- :telescope: I am constantly developing, taking courses, improving my skills.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I very love to work outside, it helps me to recharge.
+
+- :boom: I can bench press 100 pounds.
+  <br/>
+<br/>
 
 
 
-                    
-
-
-
-
-
-
-* ✉️  You can contact me at ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/AlexKravchenko_1605) <a href="mailto:alexkravchenko1605@gmail.com"> ![Static Badge](https://img.shields.io/badge/gmail-text%20me%20-%20red?style=social&logo=Gmail&logoColor=red) </a>
-
-
-### Skills
-
-
-
-<p align="left">
+###  :hammer_and_wrench: Languages and Tools :
+<br/>
+<br/>
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>&nbsp;
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>&nbsp;
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>&nbsp;
@@ -37,32 +53,26 @@ I'm a  web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>&nbsp;
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>&nbsp;
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-</p>                                                                                                                                                        
+</p>                                                                                                                                            
+<br/>
+<br/>
 
-
-
-
-### Socials
-
-<p align="left">  
-  <a href="https://www.linkedin.com/in/alex-kravchenko-18a312261" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
-  <a href="https://t.me/AlexKravchenko_1605" rel="nofollow"  > <img src="https://camo.githubusercontent.com/6badd5effe52bef2c64557fa8883104fd1fd80065c2feda39fd2b9ac4a858bae/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323131312f323131313634362e706e67" width="40" height="40" alt="telegram group" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" style="max-width: 100%;"></a>
-</p> 
-
-
-
-
-
-### Badges
-
-#### My GitHub Stats
-
-  <a href="http://www.github.com/AlexKravchenko1605"><img src="https://github-readme-stats.vercel.app/api?username=AlexKravchenko1605&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="AlexKravchenko1605's GitHub stats" /></a>  
-  <a href="https://github.com/AlexKravchenko1605" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKravchenko1605&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-
+### :fire: My GitHub Stats
+<br/>
+<div align="center" >
+ <a  href="http://www.github.com/AlexKravchenko1605"><img src="https://github-readme-stats.vercel.app/api?username=AlexKravchenko1605&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="AlexKravchenko1605's GitHub stats" /></a>  
+        <br/>
+         <br/>
+ <a href="https://github.com/AlexKravchenko1605" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKravchenko1605&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  
+</div>
 
 ### Codewars 
-[![codewars](https://www.codewars.com/users/KravchenkoAlexander/badges/large)](https://www.codewars.com/users/KravchenkoAlexander)
+ <br/>
+  <br/>
+<div align="center">   
+
+[![codewars](https://www.codewars.com/users/KravchenkoAlexander/badges/large)](https://www.codewars.com/users/KravchenkoAlexander)   
+</div>
+    
 
