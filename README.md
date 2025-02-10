@@ -26,7 +26,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I very love to work outside, it helps me to recharge.
+- :zap: In my free time, I realy like to work outside, it helps me to recharge.
 
 - :boom: I can bench press 100 pounds.
   <br/>
